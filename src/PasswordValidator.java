@@ -1,5 +1,3 @@
-import javax.lang.model.element.Element;
-
 /** This program is a command-line tool for determining whether a password is a strong password.
  * 
  * @author Jaskaran Singh
